@@ -1,0 +1,16 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+Output/
+
+.idea/
+
+.DS_Store
+
+TimeTrackerAutomationSWD/Properties/launchSettings.json
+
+TimeTrackerAutomationSWD/appsettings.Development.json
+
+TimeTrackerAutomationSWD/appsettings.json
